@@ -2,6 +2,7 @@ using LightningArt
 using Luxor
 using LinearAlgebra
 using ForwardDiff
+@quickactivate "LightningArt"
 import GeometryBasics
 
 @svg begin
